@@ -1,0 +1,2 @@
+Az adatbázisunk az alábbi táblákból áll: Szín, Méret, Márka, 
+Felhasználói adatbázis: Ügyfél neve, szállítási címe, elérhetőségei, 
