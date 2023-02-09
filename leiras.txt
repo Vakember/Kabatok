@@ -1,2 +1,5 @@
-Az adatbázisunk az alábbi táblákból áll: Szín, Méret, Márka, 
-Felhasználói adatbázis: Ügyfél neve, szállítási címe, elérhetőségei, 
+Nortface kabátokat fogunk árulni
+2 fajta lesz: Puffer jacket(ilyen pufi dzseki)
+És Szél dzseki 
+xs/s/m/l/xl méretek
+és több fajta szín közül lehet választani 
